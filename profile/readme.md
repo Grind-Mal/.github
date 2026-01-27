@@ -39,7 +39,7 @@ We don’t do tutorials, mentors, or hand-holding. We do **real broken projects,
 
 ## 🏗 Organization Structure
 
-- `grindmal/broken-projects` → repositories with broken projects
+- `grindmal/projects` → repositories with projects
 - `grindmal/challenges` → weekly challenges and exercises
 - `grindmal/reviews` → review guidelines and templates
 - `grindmal/onboarding` → first PR instructions, environment setup, rules
